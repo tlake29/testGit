@@ -1,2 +1,3 @@
 Hello! This is a sample of using gitHub for software version control and collaboration.
 Adding another line because I can.
+This is a different edit. We want to make a conflict with this.

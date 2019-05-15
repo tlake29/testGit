@@ -1,0 +1,1 @@
+Hello! This is a sample of using gitHub for software version control and collaboration.
